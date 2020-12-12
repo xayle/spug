@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.660bf0c2.chunk.css",
+    "main.js": "/static/js/main.adc38253.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.2cede280.js",
+    "static/css/2.5a8e3c2a.chunk.css": "/static/css/2.5a8e3c2a.chunk.css",
+    "static/js/2.7d524e4d.chunk.js": "/static/js/2.7d524e4d.chunk.js",
+    "static/js/3.35bccd1b.chunk.js": "/static/js/3.35bccd1b.chunk.js",
+    "static/css/4.46c1e9bb.chunk.css": "/static/css/4.46c1e9bb.chunk.css",
+    "static/js/4.1c134dd1.chunk.js": "/static/js/4.1c134dd1.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.5208cdb16f276d3c1bd5cd70f062e3c9.js": "/precache-manifest.5208cdb16f276d3c1bd5cd70f062e3c9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/libs.module.css": "/static/media/404.9ed13bbe.svg",
+    "static/media/avatar.png": "/static/media/avatar.e147bdeb.png",
+    "static/media/login.module.css": "/static/media/bg.5825f033.svg",
+    "static/media/index.less": "/static/media/index.f534d372.less",
+    "static/media/logo-spug-txt.png": "/static/media/logo-spug-txt.a4258c04.png",
+    "static/media/logo-spug.png": "/static/media/logo-spug.08a9b60d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cede280.js",
+    "static/css/2.5a8e3c2a.chunk.css",
+    "static/js/2.7d524e4d.chunk.js",
+    "static/css/main.660bf0c2.chunk.css",
+    "static/js/main.adc38253.chunk.js"
+  ]
+}
